@@ -6,11 +6,7 @@ An end-to-end Natural Language Processing (NLP) project that classifies Email an
 
 ## 🚀 Live Demo
 
-🔗 Add Your Streamlit App Link Here
-
-Example:
-
-https://your-app-name.streamlit.app
+🔗 https://nky4geut3nxrg5fsscjhkr.streamlit.app/
 
 ---
 
@@ -202,11 +198,9 @@ streamlit run app.py
 
 ## 📸 Application Screenshot
 
-Add your deployed app screenshot here.
 
-Example:
+<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/d1e49fd6-d7d0-4d53-b312-800b9aceeecf" />
 
-![App Screenshot](screenshot.png)
 
 ---
 
@@ -236,9 +230,9 @@ Example:
 
 Devank Verma
 
-LinkedIn: Add Your LinkedIn Link
+LinkedIn: https://www.linkedin.com/in/devank-verma-ba4492262/
 
-GitHub: Add Your GitHub Profile Link
+GitHub: 
 
 ---
 
