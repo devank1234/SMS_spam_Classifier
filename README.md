@@ -173,7 +173,7 @@ sms_spam_classifier/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sms-spam-classifier.git
+git clone https://github.com/devank1234/SMS_spam_classifier.git
 ```
 
 Move into project directory:
@@ -232,7 +232,7 @@ Devank Verma
 
 LinkedIn: https://www.linkedin.com/in/devank-verma-ba4492262/
 
-GitHub: 
+GitHub: https://github.com/devank1234
 
 ---
 
